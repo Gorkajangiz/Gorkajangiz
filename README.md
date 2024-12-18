@@ -11,12 +11,12 @@
 <p align="left">
   Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma en el centro Ceinmark de Bilbao. Actualmente me encuentro cursando mi primer año y aprendiendo sobre nuevos lenguajes y medios cada día. 
 
-  🎨 Proyectos anteriores: Aunque este sea mi primer paso en el mundo de la informática, antes de esto me he dedicado durante un año a escribir por comisión para particulares, por lo que tengo buenas habilidades a la hora de redactar.
-  🔭 Planes a futuro: Me gustaría terminar el curso, hacer las prácticas correspondientes para ganar experiencia y poder elegir entre continuar con un trabajo estable o seguir formándome en campos de mi interes como la Inteligencia Artificial.
-  ⚖ Valores: Soy una persona enfocada, me gusta que el código que desarrollo nazca de mi y de mis compañeros, pero prefiero dejar el uso de Inteligencias Artificiales para consulta o corrección de errores. No creo que un buen programador nazca de copiar, sino de crear.
-  💡 Ideas: Siento mucha pasión por la posibilidad de crear, y desde que he aprendido a comunicarme con ordenadores, estoy buscando constantemente nuevas ideas y proyectos que probar para seguir aprendiendo.
-  ⏳ Capacidades de trabajo: Debido a la naturaleza de mi anterior empleo, tengo mucha experiencia con el trabajo con fechas límite o "deadlines", estoy capacitado para invertir más o menos horas según el estado del proyecto con tal de entregarlo para la fecha establecida.
-  📭 Trabajo en equipo: Soy una persona tranquila, no aspiro a ser el que guie a un equipo hacia la victoria, simplemente quiero trabajar con mis compañeros para resolver los puzles que presenta diariamente este trabajo, tratándolos como iguales y aprendiendo unos de otros.
+  🎨 Proyectos anteriores: Aunque este sea mi primer paso en el mundo de la informática, antes de esto me he dedicado durante un año a escribir por comisión para particulares, por lo que tengo buenas habilidades a la hora de redactar.<br>
+  🔭 Planes a futuro: Me gustaría terminar el curso, hacer las prácticas correspondientes para ganar experiencia y poder elegir entre continuar con un trabajo estable o seguir formándome en campos de mi interes como la Inteligencia Artificial.<br>
+  ⚖ Valores: Soy una persona enfocada, me gusta que el código que desarrollo nazca de mi y de mis compañeros, pero prefiero dejar el uso de Inteligencias Artificiales para consulta o corrección de errores. No creo que un buen programador nazca de copiar, sino de crear.<br>
+  💡 Ideas: Siento mucha pasión por la posibilidad de crear, y desde que he aprendido a comunicarme con ordenadores, estoy buscando constantemente nuevas ideas y proyectos que probar para seguir aprendiendo.<br>
+  ⏳ Capacidades de trabajo: Debido a la naturaleza de mi anterior empleo, tengo mucha experiencia con el trabajo con fechas límite o "deadlines", estoy capacitado para invertir más o menos horas según el estado del proyecto con tal de entregarlo para la fecha establecida.<br>
+  📭 Trabajo en equipo: Soy una persona tranquila, no aspiro a ser el que guie a un equipo hacia la victoria, simplemente quiero trabajar con mis compañeros para resolver los puzles que presenta diariamente este trabajo, tratándolos como iguales y aprendiendo unos de otros.<br>
 </p>
 
 <h3 align="left">Lenguajes y herramientas que conozco:</h3>
