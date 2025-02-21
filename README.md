@@ -13,12 +13,12 @@
   ⚖ Valores: Soy una persona enfocada, me gusta que el código que desarrollo nazca de mi y de mis compañeros, por tanto prefiero dejar el uso de Inteligencias Artificiales para consulta o corrección de errores. No creo que un buen programador nazca de copiar, sino de crear.<br><br>
   💡 Ideas: Siento mucha pasión por la posibilidad de crear, y desde que he aprendido a comunicarme con ordenadores, estoy buscando constantemente nuevas ideas y proyectos que probar para seguir aprendiendo.<br><br>
   ⏳ Capacidades de trabajo: Debido a la naturaleza de mi anterior empleo, tengo mucha experiencia con el trabajo con fechas límite o "deadlines", estoy capacitado para invertir más o menos horas según el estado del proyecto con tal de entregarlo para la fecha establecida.<br><br>
-  📭 Trabajo en equipo: Soy una persona tranquila, no aspiro a ser el que guie a un equipo hacia la victoria, simplemente quiero trabajar con mis compañeros para resolver los puzles que presenta diariamente este trabajo, tratándolos como iguales y aprendiendo unos de otros.<br><br>
+  📭 Trabajo en equipo: Soy una persona tranquila, no aspiro a ser el que guie a un equipo hacia la victoria, sino a trabajar con mis compañeros para resolver los puzles que presenta diariamente este trabajo, tratándolos como iguales y aprendiendo unos de otros.<br><br>
 </p>
 
 - 📫 Cómo contactarme: **gorkajangiz@gmail.com**
 
-- 📄 Para información más detallada, este es mi curriculum [https://x.com/gorkajangiZ](https://x.com/gorkajangiZ)
+- 📄 Para información más detallada, este es mi <a href="https://drive.google.com/file/d/1NcsUSyeoTKL-i47LT8glutl0SSY1vaGH/view?usp=drive_link">curriculum</a>
 
 
 <h3 align="left">Lenguajes y herramientas que conozco:</h3>
